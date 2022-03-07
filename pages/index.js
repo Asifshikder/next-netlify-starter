@@ -18,7 +18,6 @@ export default function Home() {
     <h4>Thank you</h4>
       </main>
 
-      <Footer />
     </div>
   )
 }
